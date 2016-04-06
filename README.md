@@ -1,3 +1,3 @@
 # hello-world
 this is the first repository
-And now, I will introduce you myseft.My name's Bao =)
+And now, I will introduce myseft to you.My name's Bao =)
